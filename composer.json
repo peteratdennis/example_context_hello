@@ -11,6 +11,6 @@
   },
   
   "autoload": {
-    "psr-4": {"Peteradennis\\Behat\\Context\\": "src/"}
+    "psr-4": {"Peteradennis\\": "src/"}
   }
 }
